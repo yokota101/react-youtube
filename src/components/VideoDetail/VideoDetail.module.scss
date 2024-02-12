@@ -1,0 +1,21 @@
+.wrap{
+    // flex-grow: 2;
+    width:65%;
+    padding: 1rem;
+    @media screen and (max-width:960px){
+        width: 90%;
+    }
+    p {
+        color: white;
+    }
+    pre {
+        color: white;
+        line-height: 1.8rem;
+        overflow: auto;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+    a {
+        color: #3ea6ff;
+    }
+}

@@ -1,0 +1,19 @@
+.wrapper{
+    margin:5px auto 20px;
+    h2{
+        text-align: center;
+        color: #ffe4c4;
+        margin: 0px auto 5px;
+    }
+    a{
+        display: block;
+        text-align: center;
+        font-size: small;
+        color: white;
+        line-height:25px;
+    }
+    a:hover{
+        color: #af1a00;
+        text-decoration: underline;
+      }
+}
